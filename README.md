@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/65b9a6fc-c354-4643-ab9b-0fae1d8cac6e)
+
 Paso 1: Crear un Proyecto en Google Cloud Console
 Accede a Google Cloud Console:
 
